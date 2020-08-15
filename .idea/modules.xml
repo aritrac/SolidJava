@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/InternationalizationInJava/InternationalizationInJava.iml" filepath="$PROJECT_DIR$/InternationalizationInJava/InternationalizationInJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaClassLoader/JavaClassLoader.iml" filepath="$PROJECT_DIR$/JavaClassLoader/JavaClassLoader.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaReflectionAPI/JavaReflectionAPI.iml" filepath="$PROJECT_DIR$/JavaReflectionAPI/JavaReflectionAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaRegularExpressions/JavaRegularExpressions.iml" filepath="$PROJECT_DIR$/JavaRegularExpressions/JavaRegularExpressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/SerializationInJava/SerializationInJava.iml" filepath="$PROJECT_DIR$/SerializationInJava/SerializationInJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/SystemClassInJava/SystemClassInJava.iml" filepath="$PROJECT_DIR$/SystemClassInJava/SystemClassInJava.iml" />
     </modules>

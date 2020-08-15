@@ -1,5 +1,6 @@
 package test.reflection;
 
+@Deprecated
 public class ConcreteClass extends BaseClass implements BaseInterface {
 
     public int publicInt;

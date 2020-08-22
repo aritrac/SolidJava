@@ -11,6 +11,11 @@
       <module fileurl="file://$PROJECT_DIR$/JavaReentrantLocks/JavaReentrantLocks.iml" filepath="$PROJECT_DIR$/JavaReentrantLocks/JavaReentrantLocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaReflectionAPI/JavaReflectionAPI.iml" filepath="$PROJECT_DIR$/JavaReflectionAPI/JavaReflectionAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaRegularExpressions/JavaRegularExpressions.iml" filepath="$PROJECT_DIR$/JavaRegularExpressions/JavaRegularExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSynchronization/JavaSynchronization.iml" filepath="$PROJECT_DIR$/JavaSynchronization/JavaSynchronization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaThreadLocal/JavaThreadLocal.iml" filepath="$PROJECT_DIR$/JavaThreadLocal/JavaThreadLocal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaThreadPool/JavaThreadPool.iml" filepath="$PROJECT_DIR$/JavaThreadPool/JavaThreadPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaThreads/JavaThreads.iml" filepath="$PROJECT_DIR$/JavaThreads/JavaThreads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaTimerTask/JavaTimerTask.iml" filepath="$PROJECT_DIR$/JavaTimerTask/JavaTimerTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/SerializationInJava/SerializationInJava.iml" filepath="$PROJECT_DIR$/SerializationInJava/SerializationInJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/SystemClassInJava/SystemClassInJava.iml" filepath="$PROJECT_DIR$/SystemClassInJava/SystemClassInJava.iml" />
     </modules>

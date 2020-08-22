@@ -1,0 +1,2 @@
+This is a sample file to read via the scanner class.
+Lets hope this gets read successfully

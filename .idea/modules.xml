@@ -3,14 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DeadlocksInJava/DeadlocksInJava.iml" filepath="$PROJECT_DIR$/DeadlocksInJava/DeadlocksInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/ImportantJavaCodes.iml" filepath="$PROJECT_DIR$/ImportantJavaCodes.iml" />
       <module fileurl="file://$PROJECT_DIR$/InternationalizationInJava/InternationalizationInJava.iml" filepath="$PROJECT_DIR$/InternationalizationInJava/InternationalizationInJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCallableFuture/JavaCallableFuture.iml" filepath="$PROJECT_DIR$/JavaCallableFuture/JavaCallableFuture.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaClassLoader/JavaClassLoader.iml" filepath="$PROJECT_DIR$/JavaClassLoader/JavaClassLoader.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFutures/JavaFutures.iml" filepath="$PROJECT_DIR$/JavaFutures/JavaFutures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaGenerics/JavaGenerics.iml" filepath="$PROJECT_DIR$/JavaGenerics/JavaGenerics.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaReentrantLocks/JavaReentrantLocks.iml" filepath="$PROJECT_DIR$/JavaReentrantLocks/JavaReentrantLocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaReflectionAPI/JavaReflectionAPI.iml" filepath="$PROJECT_DIR$/JavaReflectionAPI/JavaReflectionAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaRegularExpressions/JavaRegularExpressions.iml" filepath="$PROJECT_DIR$/JavaRegularExpressions/JavaRegularExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaScannerClass/JavaScannerClass.iml" filepath="$PROJECT_DIR$/JavaScannerClass/JavaScannerClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSynchronization/JavaSynchronization.iml" filepath="$PROJECT_DIR$/JavaSynchronization/JavaSynchronization.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaThreadLocal/JavaThreadLocal.iml" filepath="$PROJECT_DIR$/JavaThreadLocal/JavaThreadLocal.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaThreadPool/JavaThreadPool.iml" filepath="$PROJECT_DIR$/JavaThreadPool/JavaThreadPool.iml" />

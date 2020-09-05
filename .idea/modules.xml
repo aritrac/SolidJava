@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaInheritance/JavaInheritance.iml" filepath="$PROJECT_DIR$/JavaInheritance/JavaInheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaInnerClasses/JavaInnerClasses.iml" filepath="$PROJECT_DIR$/JavaInnerClasses/JavaInnerClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaInterfaces/JavaInterfaces.iml" filepath="$PROJECT_DIR$/JavaInterfaces/JavaInterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLambdaExpressions/JavaLambdaExpressions.iml" filepath="$PROJECT_DIR$/JavaLambdaExpressions/JavaLambdaExpressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaReentrantLocks/JavaReentrantLocks.iml" filepath="$PROJECT_DIR$/JavaReentrantLocks/JavaReentrantLocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaReflectionAPI/JavaReflectionAPI.iml" filepath="$PROJECT_DIR$/JavaReflectionAPI/JavaReflectionAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaRegularExpressions/JavaRegularExpressions.iml" filepath="$PROJECT_DIR$/JavaRegularExpressions/JavaRegularExpressions.iml" />

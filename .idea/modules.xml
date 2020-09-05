@@ -10,12 +10,15 @@
       <module fileurl="file://$PROJECT_DIR$/JavaCallableFuture/JavaCallableFuture.iml" filepath="$PROJECT_DIR$/JavaCallableFuture/JavaCallableFuture.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaClassLoader/JavaClassLoader.iml" filepath="$PROJECT_DIR$/JavaClassLoader/JavaClassLoader.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCollections/JavaCollections.iml" filepath="$PROJECT_DIR$/JavaCollections/JavaCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaComposition/JavaComposition.iml" filepath="$PROJECT_DIR$/JavaComposition/JavaComposition.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEnumerations/JavaEnumerations.iml" filepath="$PROJECT_DIR$/JavaEnumerations/JavaEnumerations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFailFastAndFailSafeIterators/JavaFailFastAndFailSafeIterators.iml" filepath="$PROJECT_DIR$/JavaFailFastAndFailSafeIterators/JavaFailFastAndFailSafeIterators.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFutures/JavaFutures.iml" filepath="$PROJECT_DIR$/JavaFutures/JavaFutures.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaGenerics/JavaGenerics.iml" filepath="$PROJECT_DIR$/JavaGenerics/JavaGenerics.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaHashCodeAndEqualsOverride/JavaHashCodeAndEqualsOverride.iml" filepath="$PROJECT_DIR$/JavaHashCodeAndEqualsOverride/JavaHashCodeAndEqualsOverride.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaInheritance/JavaInheritance.iml" filepath="$PROJECT_DIR$/JavaInheritance/JavaInheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaInnerClasses/JavaInnerClasses.iml" filepath="$PROJECT_DIR$/JavaInnerClasses/JavaInnerClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaInterfaces/JavaInterfaces.iml" filepath="$PROJECT_DIR$/JavaInterfaces/JavaInterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaReentrantLocks/JavaReentrantLocks.iml" filepath="$PROJECT_DIR$/JavaReentrantLocks/JavaReentrantLocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaReflectionAPI/JavaReflectionAPI.iml" filepath="$PROJECT_DIR$/JavaReflectionAPI/JavaReflectionAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaRegularExpressions/JavaRegularExpressions.iml" filepath="$PROJECT_DIR$/JavaRegularExpressions/JavaRegularExpressions.iml" />

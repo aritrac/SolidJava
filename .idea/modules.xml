@@ -27,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaReflectionAPI/JavaReflectionAPI.iml" filepath="$PROJECT_DIR$/JavaReflectionAPI/JavaReflectionAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaRegularExpressions/JavaRegularExpressions.iml" filepath="$PROJECT_DIR$/JavaRegularExpressions/JavaRegularExpressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaScannerClass/JavaScannerClass.iml" filepath="$PROJECT_DIR$/JavaScannerClass/JavaScannerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaStreamAPIs/JavaStreamAPIs.iml" filepath="$PROJECT_DIR$/JavaStreamAPIs/JavaStreamAPIs.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaStrings/JavaStrings.iml" filepath="$PROJECT_DIR$/JavaStrings/JavaStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSynchronization/JavaSynchronization.iml" filepath="$PROJECT_DIR$/JavaSynchronization/JavaSynchronization.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaThreadLocal/JavaThreadLocal.iml" filepath="$PROJECT_DIR$/JavaThreadLocal/JavaThreadLocal.iml" />

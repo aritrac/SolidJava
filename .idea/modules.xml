@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/ImportantJavaCodes.iml" filepath="$PROJECT_DIR$/ImportantJavaCodes.iml" />
       <module fileurl="file://$PROJECT_DIR$/InternationalizationInJava/InternationalizationInJava.iml" filepath="$PROJECT_DIR$/InternationalizationInJava/InternationalizationInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java8NewFeatures/Java8NewFeatures.iml" filepath="$PROJECT_DIR$/Java8NewFeatures/Java8NewFeatures.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaAbstractClasses/JavaAbstractClasses.iml" filepath="$PROJECT_DIR$/JavaAbstractClasses/JavaAbstractClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaAccessModifiers/JavaAccessModifiers.iml" filepath="$PROJECT_DIR$/JavaAccessModifiers/JavaAccessModifiers.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaAnnotations/JavaAnnotations.iml" filepath="$PROJECT_DIR$/JavaAnnotations/JavaAnnotations.iml" />
